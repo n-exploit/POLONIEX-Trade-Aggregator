@@ -7,6 +7,7 @@ import hmac
 import csv
 import hashlib
 
+#  Built 2/10/2016 by n-exploit
 #  Poloniex API wrapper for Python built by @opiminer
 
 api_key = '00000000-00000000-00000000-00000000'
